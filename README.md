@@ -1,2 +1,2 @@
-# collision-algorithm
-When the objects collides other the colour will change
+# p5.play-boilerplate
+Boiler plate for p5.play
